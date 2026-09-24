@@ -12,7 +12,7 @@
 
 ## Стек
 
-- Git / GitHub
+- Git11 111/ GitHub
 
 - Python
 
